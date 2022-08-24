@@ -1,0 +1,30 @@
+{
+  "..\\node_modules\\@thirdweb-dev\\react\\dist\\thirdweb-dev-react.browser.esm.js -> @gnosis.pm/safe-core-sdk": {
+    "id": 3893,
+    "files": [
+      "static/chunks/190.27ed6c9c8271ac4a.js",
+      "static/chunks/893.79f4afdbd37c443a.js",
+      "static/chunks/799.f83e5ac4d14fc060.js"
+    ]
+  },
+  "..\\node_modules\\@thirdweb-dev\\react\\dist\\thirdweb-dev-react.browser.esm.js -> @gnosis.pm/safe-ethers-adapters": {
+    "id": 61490,
+    "files": [
+      "static/chunks/490.36a72cbec162a680.js"
+    ]
+  },
+  "..\\node_modules\\@thirdweb-dev\\react\\dist\\thirdweb-dev-react.browser.esm.js -> @gnosis.pm/safe-ethers-lib": {
+    "id": 40627,
+    "files": [
+      "static/chunks/190.27ed6c9c8271ac4a.js",
+      "static/chunks/627.aa5c5db0ca925ee4.js",
+      "static/chunks/519.9b81eaafc593e150.js"
+    ]
+  },
+  "..\\node_modules\\@thirdweb-dev\\react\\dist\\thirdweb-dev-react.browser.esm.js -> magic-sdk": {
+    "id": 52083,
+    "files": [
+      "static/chunks/83.b2ed6eb1f763f136.js"
+    ]
+  }
+}
