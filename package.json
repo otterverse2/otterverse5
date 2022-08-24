@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.7.3",
+    "@rotorz/dotnet-services": "github:rotorz/dotnet-services",
     "@thirdweb-dev/react": "^2",
     "@thirdweb-dev/sdk": "^2",
     "ethers": "^5.6.8",
